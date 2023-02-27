@@ -1,0 +1,30 @@
+#artistas {
+    margin: 0;
+    padding: 0.5em;
+    font-family:  Verdana,sans-serif;
+ }
+ #li {
+    float: left;
+    list-style-type:  none;
+    margin: 0 0 0 0.5em;
+    padding: 0.25em;
+    background-color: #600;
+    color: #ff9;
+    border: 2px solid #f00;
+ }
+ #a {
+    color: #ff9;
+    text-decoration:  none;
+ }
+ .wrap {
+    float: left;
+    margin-bottom:  2em;
+ }
+ .clear {
+    clear: left;
+    height: 1px;
+    margin-top: -1px;
+ }
+ .body{
+     background-color:forestgreen;
+ }
